@@ -56,6 +56,10 @@ Aftermath Archive is built on a MERN stack (MongoDB, Express, React, Node.js) to
 -   **React-Toastify:** for in-app alerts and notifications.
 
 # R2 Dataflow Diagram
+The following diagrams use the System Structured Analysis and Design Methodology (SSADM) notation system for dataflow diagrams (DFD). 
+
+## Level 0 Diagram 
+![level 0 diagram](./docs/dataflow/SSADM-DFD-0.png)
 
 # R3 Application Architecture Diagram
 

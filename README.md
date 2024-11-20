@@ -61,6 +61,8 @@ The following diagrams use the System Structured Analysis and Design Methodology
 ## Level 0 Diagram 
 ![level 0 diagram](./docs/dataflow/SSADM-DFD-0.png)
 
+## Level 1 Diagram
+![level 1 diagram](./docs/dataflow/SSADM-DFD-1.png)
 # R3 Application Architecture Diagram
 
 # R4 User Stories

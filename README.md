@@ -63,6 +63,22 @@ The following diagrams use the System Structured Analysis and Design Methodology
 
 ## Level 1 Diagram
 ![level 1 diagram](./docs/dataflow/SSADM-DFD-1.png)
+
+## Level 2 Subprocess diagrams 
+### Log Incident 
+![level 2 diagram for logging incident](./docs/dataflow/SSADM-DFD-2-log-incident.png)
+
+### Create Post Mortem (Stretch Feature)
+![level 2 diagram for creating a post mortem](./docs/dataflow/SSADM-DFD-2-create-post-mortem.png)
+
+### Search and Filter Incidents
+
+### Update Incident Status 
+
+### Notifications and Alerts (Stretch Feature)
+
+### Authentication (Stretch Feature)
+
 # R3 Application Architecture Diagram
 
 # R4 User Stories

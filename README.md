@@ -80,7 +80,19 @@ The following diagrams use the System Structured Analysis and Design Methodology
 ### Notifications and Alerts (Stretch Feature)
 ![level 2 diagram for notifications](./docs/dataflow/SSADM-DFD-2-notifications-and-alerts.png)
 
-### Authentication (Stretch Feature)
+### Authentication (Internal)
+#### Register
+![level 2 diagram for internal registration](./docs/dataflow/SSADM-DFD-2-auth-register-internal.png)
+
+#### Login
+![level 2 diagram for internal login](./docs/dataflow/SSADM-DFD-2-auth-login-internal.png)
+
+### Authentication (Oauth - External Provider) (Stretch Feature)
+#### Register
+![level 2 diagram for external registration](./docs/dataflow/SSADM-DFD-2-auth-register-external.png)
+
+#### Login
+![level 2 diagram for external login](./docs/dataflow/SSADM-DFD-2-auth-login-external.png)
 
 # R3 Application Architecture Diagram
 

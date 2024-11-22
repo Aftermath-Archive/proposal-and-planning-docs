@@ -78,6 +78,7 @@ The following diagrams use the System Structured Analysis and Design Methodology
 ![level 2 diagram for creating a post mortem](./docs/dataflow/SSADM-DFD-2-create-post-mortem.png)
 
 ### Notifications and Alerts (Stretch Feature)
+![level 2 diagram for notifications](./docs/dataflow/SSADM-DFD-2-notifications-and-alerts.png)
 
 ### Authentication (Stretch Feature)
 

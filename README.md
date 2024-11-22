@@ -95,6 +95,7 @@ The following diagrams use the System Structured Analysis and Design Methodology
 ![level 2 diagram for external login](./docs/dataflow/SSADM-DFD-2-auth-login-external.png)
 
 # R3 Application Architecture Diagram
+![application architecture diagram](./docs/app-architecture/app-architecture-diagram.png)
 
 # R4 User Stories
 

@@ -112,4 +112,49 @@ Not depicted in the wireframes, but I plan to add complementary accent colors fo
 - Warning: Amber or gold (a muted yellow-orange for contrast).
 - Error: Muted red or coral (avoiding overly bright tones to maintain the teal’s calm aesthetic).
 
+Broadly speaking, due to the target demographic of this application it is designed as being desktop first (as is the case of similar workplace apps of this nature). However, during development steps will be made to ensure mobile users are fully supported. 
+
+## Figma Overview
+![figma overview](./docs/wireframes/figma.png)
+
+## Universal
+### Marking Page
+![marketing page](./docs/wireframes/Wireframes-images-0.jpg)
+
+## Desktop
+### Dashboard
+![dashboard](./docs/wireframes/Wireframes-images-4.jpg)
+
+### Login / Sign Up 
+![login](./docs/wireframes/Wireframes-images-1.jpg)
+
+### Search Incidents
+![search results](./docs/wireframes/Wireframes-images-2.jpg)
+
+### View / Update Incident
+![view or update an incident](./docs/wireframes/Wireframes-images-3.jpg)
+
+### Create Incident 
+![create incident](./docs/wireframes/Wireframes-images-5.jpg)
+
+## Mobile 
+
+### Dashboard
+![dashboard](./docs/wireframes/Wireframes-images-7.jpg)
+
+### Login / Sign Up 
+![login](./docs/wireframes/Wireframes-images-6.jpg)
+
+### Search Incidents
+![search results](./docs/wireframes/Wireframes-images-10.jpg)
+
+### View / Update Incident
+![view or update an incident](./docs/wireframes/Wireframes-images-9.jpg)
+
+### Create Incident 
+![create incident](./docs/wireframes/Wireframes-images-8.jpg)
+
+## Collapsible Menu
+![mobile menu](./docs/wireframes/Wireframes-images-11.jpg)
+
 # R6 Screenshots of your Kanban board throughout the duration of the project

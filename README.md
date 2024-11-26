@@ -100,5 +100,16 @@ The following diagrams use the System Structured Analysis and Design Methodology
 # R4 User Stories
 
 # R5 Wireframes for multiple standard screen sizes, created using industry standard software
+Figma used for all wireframes. 
+Current proposition is to use the Teal palette as specified by ShadCN. 
+![light mode](./docs/wireframes/color-light.png)
+![dark mode](./docs/wireframes/color-dark.png)
+
+Teal strikes a balance between calm professionalism (blue tones) and modern freshness (green tones). It’s suitable for a tool intended to help users manage stress-inducing incidents without overwhelming them. Teal is easy on the eyes for prolonged usage, and it aligns with accessibility goals, as it’s less likely to cause strain compared to highly saturated or bright palettes.
+
+Not depicted in the wireframes, but I plan to add complementary accent colors for specific features (e.g., status indicators, error messages):
+- Success: Light green (close to teal-100/200 but more vivid).
+- Warning: Amber or gold (a muted yellow-orange for contrast).
+- Error: Muted red or coral (avoiding overly bright tones to maintain the teal’s calm aesthetic).
 
 # R6 Screenshots of your Kanban board throughout the duration of the project

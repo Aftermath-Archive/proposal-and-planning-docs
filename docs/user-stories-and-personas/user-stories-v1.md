@@ -1,12 +1,5 @@
 User Stories for Aftermath Archive
 
-A user story is an informal, general explanation of a software feature written from the perspective of the end user. Its purpose is to articulate how a software feature will provide value to the customer.
-
-All user stories follow the standardised format of:
-“As a [persona], I [want to], [so that].”
-
-https://www.atlassian.com/agile/project-management/user-stories
-
 1. Incident Logging
    As a user, I want to log a new incident by providing key details such as incident type, timestamp, and description. So that I can ensure the incident is documented for tracking and future analysis.
 

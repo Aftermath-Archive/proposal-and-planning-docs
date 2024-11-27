@@ -62,7 +62,7 @@ Aftermath Archive is built on a MERN stack (MongoDB, Express, React, Node.js) to
 -   **Backend:** Node.js and Express to handle the API and business logic.
 -   **Database:** MongoDB, using Mongoose for schema management and data modeling.
 
-### Additional Libraries:
+### Proposed Additional Libraries:
 
 -   **Quill.js:** for rich text editing in post-mortem documentation.
 -   **Fuse.js:** for fast, fuzzy search functionality.
@@ -128,12 +128,11 @@ The following diagrams use the System Structured Analysis and Design Methodology
 
 # R4 User Stories
 
-A user story is an informal, general explanation of a software feature written from the perspective of the end user. Its purpose is to articulate how a software feature will provide value to the customer.
+A user story is an informal, general explanation of a software feature written from the perspective of the end user. Its purpose is to articulate how a software feature will provide value to the customer. [(Atlassian, 2024)](https://www.atlassian.com/agile/project-management/user-stories)
 
 All user stories follow the standardised format of:
 “As a [persona], I [want to], [so that].”
 
-https://www.atlassian.com/agile/project-management/user-stories
 
 Due to the length of the user stories and personas, they are also available as separate md files for convenience.
 
@@ -142,8 +141,6 @@ Due to the length of the user stories and personas, they are also available as s
 -   You can find the finalised user stories with personas [here](./docs/user-stories-and-personas/user-stories-with-personas.md)
 
 ## First Iteration of User Stories
-
-    User Stories for Aftermath Archive
 
 1. Incident Logging
    As a user, I want to log a new incident by providing key details such as incident type, timestamp, and description. So that I can ensure the incident is documented for tracking and future analysis.
@@ -176,6 +173,7 @@ Due to the length of the user stories and personas, they are also available as s
     As a user, I want to export post-mortem reports as PDFs to share with external stakeholders. So that I can communicate findings and action items easily.
 
 ## Personas
+Personas follow the [Atlassian Persona template.](https://www.atlassian.com/software/confluence/templates/persona)
 
 ### Persona 1: “Efficient Emily” – The IT Support Specialist
 

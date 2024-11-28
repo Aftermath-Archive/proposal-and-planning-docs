@@ -15,10 +15,10 @@ Aftermath Archive is a web application designed to help development and IT teams
 ## Functionality / features
 
 -   **Incident Logging:** Users can log new incidents, documenting key details like type, timestamp, severity, and initial actions taken.
--   **Post-Mortem Documentation:** After incidents are resolved, users can create structured post-mortem reports, including fields for root cause analysis, timeline, impact assessment, and action items.
 -   **Status Tracking:** Each incident progresses through defined statuses (e.g., “Open,” “In Progress,” “Closed - Awaiting Post-Mortem,” “Closed - Complete”), allowing teams to track incidents from initial log to resolution.
 -   **Search and Filter:** Users can search through incidents using Fuse.js for fuzzy searching, making it easy to find specific incidents based on keywords, severity, status, or type.
 -   **In-App Alerts:** Using React-Toastify, users are notified of updates to incidents they are tracking or new action items.
+-   **Post-Mortem Documentation (Stretch feature):** After incidents are resolved, users can create structured post-mortem reports, including fields for root cause analysis, timeline, impact assessment, and action items.
 
 ## Target audience
 
